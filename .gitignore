@@ -1,0 +1,14 @@
+# folders
+data/
+models/
+notebooks/
+runs/
+
+# specific files
+process_data_newdataset.py
+ufold_train.py
+ufold_test.py
+ufold_predict.py
+notes.md
+
+
