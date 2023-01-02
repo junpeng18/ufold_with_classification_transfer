@@ -1,5 +1,6 @@
 # UFOLD with Classification Transfer Learning
 ## Structure
+```
 ├───data
 │   ├───classifier_data: Rfam data
 │   ├───family_data
@@ -17,9 +18,10 @@
 ├───preprocess_prob_feat.py: pre-generate the 17-th feature of the image and save to speed up model training
 ├───*_train_simple.py: simplified version of model training
 ├───ufold_test_simple.py: simplified version of model testing
+```
 
 ## Run
-1. install the necessary packages
+1. install necessary packages
 - pytorch
 - tensorboard
 - munch
